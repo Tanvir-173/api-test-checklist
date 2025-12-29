@@ -67,7 +67,7 @@ The purpose of this checklist is to:
 
 ---
 
-## ⌨ 7. Keyboard & Input Handling
+##  7. Keyboard & Input Handling
 - Keyboard does not hide input fields
 - “Next”, “Done”, and “Go” buttons work correctly
 - Keyboard dismisses when expected
